@@ -5,8 +5,8 @@
 #include <ctime>
 #include "console.h"
 
-#define BOARD_SIZE 10
-#define MOVE_DELAY 20
+#define BOARD_SIZE 20
+#define MOVE_DELAY 10
 #define WALL_VERTICAL_STRING "┃"
 #define WALL_HORIZONTAL_STRING "━"
 #define WALL_RIGHT_TOP_STRING "┓"
